@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "PKief.material-incon-theme",
+        "rocketseat.theme-omni",
+        "ritwickdey.LiveServer"
+    ]
+}
